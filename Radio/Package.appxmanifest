@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="855f2e7c-77f8-4eeb-b6b5-2ad779ecbf61"
+    Name="2ba5ea27-77b0-4263-a9c4-a175dbe6a80c"
     Publisher="CN=Mathias"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="855f2e7c-77f8-4eeb-b6b5-2ad779ecbf61" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="2ba5ea27-77b0-4263-a9c4-a175dbe6a80c" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Radio</DisplayName>
